@@ -4,8 +4,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaDhingra&background=1F2430&border=1F2430)](https://git.io/streak-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaDhingra)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaDhingra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
