@@ -4,7 +4,9 @@
 
 -🔭 I'm about to launch my portoflio website
 <br/>
+<br/>
 -📕 I'm currently trying to learn node js
+<br/>
 <br/>
 -🥅2021 Goals: Want to increase my productivity and complete MERN stack
 
