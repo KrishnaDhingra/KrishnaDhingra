@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Krishna Dhingra
+# Hi there 👋, I'm Krishna Dhingra
 
 ### Languages and Tools
 
