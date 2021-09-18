@@ -32,9 +32,9 @@
 
 ### Recent Projects
 
-<img align="left" width="310px" src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/bgjwz6i6nfnqngx7ae36.jpg"/>
-<img align="left" width="310px" src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/y70y9zpnrnhw9pxqbenq.jpg"/>
-<img align="left" width="310px" src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/xfevkvpujubwentbteg6.jpg"/>
+[<img align="left" width="310px" src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/bgjwz6i6nfnqngx7ae36.jpg"/>]
+[<img align="left" width="310px" src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/y70y9zpnrnhw9pxqbenq.jpg"/>]
+[<img align="left" width="310px" src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/xfevkvpujubwentbteg6.jpg"/>]
 
 </br>
 </br>
