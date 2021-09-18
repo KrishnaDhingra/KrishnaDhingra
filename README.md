@@ -1,9 +1,11 @@
 # Hi there 👋, I'm Krishna Dhingra
 
-## I'm a Web developer and a student !!
+### I'm a Web developer and a student !!
 
 -🔭 I'm about to launch my portoflio website
+<br/>
 -📕 I'm currently trying to learn node js
+<br/>
 -🥅2021 Goals: Want to increase my productivity and complete MERN stack
 
 ### Languages and Tools
