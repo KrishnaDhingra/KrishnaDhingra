@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaDhingra&theme=gruvbox&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaDhingra&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaDhingra&theme=gruvbox)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaDhingra&theme=gruvbox&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
