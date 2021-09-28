@@ -46,7 +46,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaDhingra&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaDhingra&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Krishna Dhingra&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaDhingra&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
