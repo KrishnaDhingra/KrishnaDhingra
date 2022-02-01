@@ -4,7 +4,7 @@
 
 - 🔭 I'm about to launch my portoflio website
 - 📕 I'm currently working on a chat app
-- 🥅2021 Goals: Want to increase my productivity and complete MERN stack
+- 🥅2022 Goals: Learn about web3 and learn 3d animations
 - 👯 I’m looking to collaborate on full stack projects
 
 <br/>
